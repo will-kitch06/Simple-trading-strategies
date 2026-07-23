@@ -1,2 +1,3 @@
 # Simple-trading-strategies
-using simple signals like crossing moving averages or z scores to generate a profit, usually doing worse than holding. 
+using GBM to simulate pathways of COKE's future stock price and threby predict the european call option price 
+
